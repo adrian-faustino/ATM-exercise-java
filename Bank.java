@@ -14,4 +14,9 @@ public class Bank {
         // TODO
         return "";
     }
+
+    public String genNewAccountUUID() {
+        // TODO
+        return "";
+    }
 }

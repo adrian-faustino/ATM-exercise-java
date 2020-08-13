@@ -1,4 +1,9 @@
 // Tutorial ref: https://www.youtube.com/watch?v=k0BofouWX-o&feature=emb_title
+
+/*
+    APP ENTRY POINT
+ */
+
 package com.company;
 
 public class ATM {

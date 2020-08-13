@@ -9,4 +9,9 @@ public class Bank {
     private ArrayList<User> users;
     /* List of all account objects */
     private ArrayList<Account> accounts;
+
+    public String genNewUserUUID() {
+        // TODO
+        return "";
+    }
 }
